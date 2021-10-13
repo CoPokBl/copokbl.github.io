@@ -389,6 +389,8 @@ h6, .h6 {
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  margin-left: 120px;
+  margin-right: 120px;
 }
 
 .display-1 {
@@ -4736,6 +4738,12 @@ input[type="button"].btn-block {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
+  background-color: #262626;
+  margin-bottom: 20px;
+}
+
+.gamemodecard {
+    height: 450px;
 }
 
 .card > hr {
